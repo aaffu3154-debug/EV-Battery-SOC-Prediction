@@ -112,6 +112,5 @@ st.markdown(
 **Developed by Aftab Ahmed**  
 AI-based EV Battery Diagnostics | NASA Dataset | Machine Learning  
 
-🔹 *Future Scope*: SOH prediction, LSTM models, real-time BMS integration
 """
 )
